@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to my blog!"
-date:   2016-02-12 1:37:00 -0600
+date:   2016-02-12 19:47:58 -0600
 categories: jekyll update
 ---
 
